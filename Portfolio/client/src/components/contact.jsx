@@ -61,7 +61,7 @@ export default function Contact() {
         </Typography>
          {/* Contact Details */}
         <Typography variant="body1" sx={{ color: 'black', marginBottom: '20px' }}>
-          Address: 123 Main Street, Anytown, USA
+          Address: 123 Main Street, Toronto, ON, Canada
           <br />
           Phone: (123) 456-7890
           <br />
