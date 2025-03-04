@@ -53,5 +53,6 @@ This project is a personal portfolio website for Rona Emre Altug. It showcases v
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone "I will add here githublink"
+   git clone "https://github.com/ronaemre/ronaPortfolio.git"
+   netlify "https://moonlit-starburst-d0324e.netlify.app"
 
